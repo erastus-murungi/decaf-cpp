@@ -1,7 +1,7 @@
 # decaf-cpp
 
 
-###  Some LLVM notes installation notes
+###  Some LLVM installation notes
 I got `llvm` working by:
 1. Cloning LLVM to a directory called `llvm`
 2. `cd`-ing into `llvm` and running
