@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.26)
 project(decaf)
 
-set(LLVM_DIR "../../Code/llvm/build/lib/cmake/llvm/")
+set(LLVM_DIR "./lib/llvm/build/lib/cmake/llvm/")
 
 message(STATUS "found llvm install dir ${LLVM_INSTALL_PACKAGE_DIR}")
 message(STATUS "Using LLVMConfig.cmake in: ${LLVM_DIR}")
